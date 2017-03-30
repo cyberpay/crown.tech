@@ -1,0 +1,7 @@
+AuthName "crown.tech statistics"
+AuthType Basic
+AuthUserFile /home/crown/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>

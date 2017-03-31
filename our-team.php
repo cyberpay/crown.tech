@@ -24,8 +24,8 @@
             <a class="box" href="#stonehedge">
                 Stonehedge
             </a>
-            <a class="box" href="#alesh">
-                Alesh
+            <a class="box" href="#hypermist">
+                Hypermist
             </a>
             <a class="box" href="#crowncoin-knight">
                 Crowncoin_Knight
@@ -95,13 +95,17 @@
                     to shape Crown's future.</p>
             </div>
             <hr>
-            <div class="knight left-align" id="alesh">
+            <div class="knight left-align" id="hypermist">
                 <div class="img-container">
                     <img src="./media/team/knighte2_blue.jpg" alt="knight">
                 </div>
-                <h4>Alesh</h4>
-                <p>Alesh is a co-founder and early investor. He is an active promoter of Crown in central Europe.
-                    Thanks for his very early involvement, this project could be created.</p>
+                <h4>Hypermist</h4>
+                <p>Hypermist is a young altcoin dev from New Zealand. He got involved in crypto as a hobby just before
+                    he moved out from his old house and was around when Dogecoin launched, which is where he made his
+                    first BTC. He then decided a few years later to come back just as scrypt asics hit the market,
+                    which made him a nice profit. He also found out that the crypto space gave him new friends and new
+                    types of coding abilties. He is responsible for the Crownpay mobile app, and is developing new
+                    economy mobile applications for Crown.</p>
             </div>
             <hr>
             <div class="knight right-align" id="crowncoin-knight">

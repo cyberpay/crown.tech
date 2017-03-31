@@ -60,6 +60,11 @@
                         <span class="name">Bootstrap</span>
                         <a class="button full" target="_blank" href="http://txexplorer.infernopool.com/CRWbootstrap.zip">Download</a>
                     </div>
+                    <div class="col-2-1 offset-4-1 col-full-width-xs offset-0-xs center-align">
+                        <img src="./media/icons/android.png" alt="Android" class="android-ico">
+                        <span class="name">Android</span>
+                        <a class="button full" target="_blank" href="https://play.google.com/store/apps/details?id=com.crownpay.wallet">Download</a>
+                    </div>
 
                     <h2>Download and install the wallet</h2>
 

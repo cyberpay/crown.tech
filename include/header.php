@@ -11,13 +11,12 @@ $root = "/";
     <meta name = "format-detection" content = "telephone=no">
     <meta name="description" content="Crown - A Digital Asset and Application Platform"/>
     <meta name="keywords" content="Crown - A Digital Asset and Application Platform currency, cryptocurrency"/>
-    <meta name="author" content="Crown" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Crown - A Digital Asset and Application Platform" />
     <meta property="og:description" content="Crown - A Digital Asset and Application Platform" />
     <meta property="og:url" content="http://www.crown.tech/" />
     <meta property="og:site_name" content="Crown - A Digital Asset and Application Platform" />
-    <meta property="og:image" content="http://www.crown.tech/media/share/share.jpg" />
+    <meta property="og:image" content="http://www.crown.tech/media/share/share.png" />
 
     <link rel="apple-touch-icon" sizes="57x57" href="<?php echo $root ?>media/favicons/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="<?php echo $root ?>media/favicons/apple-touch-icon-60x60.png">
@@ -37,20 +36,13 @@ $root = "/";
     <meta name="msapplication-wide310x150logo" content="./media/favicons/widetile.png" />
     <meta name="msapplication-square310x310logo" content="./media/favicons/largetile.png" />
 
+
+    <meta name="robots" content="noindex">                     <!-- DELETE ON LIVE VERSION -->
+    <meta name="googlebot" content="noindex">
+
     <link href="./css/style.css" rel="stylesheet" type="text/css">
 
     <title>Crown - A Digital Asset and Application Platform</title>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-91164606-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -112,12 +104,12 @@ $root = "/";
                 <span class="title">Main menu</span>
                 <nav>
                     <ul role="navigation">
-                        <li><a href="<?php echo $root ?>wallet.php" data-text="Download wallet">Download wallet</a></li>
-                        <li><a href="<?php echo $root ?>trade-crown.php" data-text="Trade crown">Trade crown</a></li>
-                        <li><a href="<?php echo $root ?>thrones.php" data-text="Set up a throne">Set up a throne</a></li>
-                        <li><a href="<?php echo $root ?>merge-mine.php" data-text="Merge mine crown">Merge mine crown</a></li>
-                        <li><a href="<?php echo $root ?>timestamp.php" data-text="Timestamp a document">Timestamp a document</a></li>
-                        <li><a href="<?php echo $root ?>register-your-name.php" data-text="Register your name">Register your name</a></li>
+                        <li><a href="<?php echo $root ?>wallet" data-text="Download wallet">Download wallet</a></li>
+                        <li><a href="<?php echo $root ?>trade-crown" data-text="Trade crown">Trade crown</a></li>
+                        <li><a href="<?php echo $root ?>thrones" data-text="Set up a throne">Set up a throne</a></li>
+                        <li><a href="<?php echo $root ?>merge-mine" data-text="Merge mine crown">Merge mine crown</a></li>
+                        <li><a href="<?php echo $root ?>timestamp" data-text="Timestamp a document">Timestamp a document</a></li>
+                        <li><a href="<?php echo $root ?>register-your-name" data-text="Register your name">Register your name</a></li>
                     </ul>
                 </nav>
             </div>
@@ -128,27 +120,28 @@ $root = "/";
                 <div class="each">
                     <h5>Learn and <br>get involved</h5>
                     <ul>
-                        <li><a href="<?php echo $root ?>about-crown.php">about crown</a></li>
-                        <li><a href="<?php echo $root ?>how-it-works.php">how it works</a></li>
-                        <li><a href="<?php echo $root ?>get-involved.php">get involved</a></li>
-                        <li><a href="<?php echo $root ?>history.php">our history</a></li>
-                        <li><a href="<?php echo $root ?>our-team.php">our team</a></li>
+                        <li><a href="<?php echo $root ?>about-crown">about crown</a></li>
+                        <li><a href="<?php echo $root ?>how-it-works">how it works</a></li>
+                        <li><a href="<?php echo $root ?>get-involved">get involved</a></li>
+                        <li><a href="<?php echo $root ?>history">our history</a></li>
+                        <li><a href="<?php echo $root ?>our-team">our team</a></li>
                     </ul>
                 </div>
                 <div class="each">
                     <h5>Community <br>and Blockchain</h5>
                     <ul>
-                        <li><a href="https://bitcointalk.org/index.php?topic=815487.0" target="_blank">forum & community</a></li>
-                        <li><a href="<?php echo $root ?>block-explorer.php">Block explorers</a></li>
+                        <li><a href="https://bitcointalk.org/index.php?topic=815487.0" target="_blank">Bitcointalk</a></li>
+                        <li><a href="http://mm.crownlab.eu/" target="_blank">Private chat</a></li>
+                        <li><a href="<?php echo $root ?>block-explorer">Block explorers</a></li>
                         <li><a href="https://github.com/Crowndev/crowncoin" target="_blank">Crown on github</a></li>
                     </ul>
                 </div>
                 <div class="each">
                     <h5>Crown <br>revolution</h5>
                     <ul>
-                        <li><a href="<?php echo $root ?>crown-revolution.php">where are we going?</a></li>
-                        <li><a href="<?php echo $root ?>whitepapers.php">crown whitepapers</a></li>
-                        <li><a href="<?php echo $root ?>personal-crypto.php">Real crypto stories</a></li>
+                        <li><a href="<?php echo $root ?>crown-revolution">where are we going?</a></li>
+                        <li><a href="<?php echo $root ?>whitepapers">crown whitepapers</a></li>
+                        <li><a href="<?php echo $root ?>personal-crypto">Real crypto stories</a></li>
                     </ul>
                 </div>
             </div>

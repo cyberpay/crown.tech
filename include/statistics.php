@@ -9,7 +9,7 @@ $crw_usd_price=round($crw_btc_price*$btc_usd_price,6);
 $json = file_get_contents('http://api.node-vps.com/crown/throne/count');
 $obj = json_decode($json, true);
 
-$mcapd = file_get_contents('http://api.coinmarketcap.com/v1/ticker/crowncoin/');
+$mcapd = file_get_contents('http://api.coinmarketcap.com/v1/ticker/crown/');
 $mcapj= (json_decode($mcapd, true));
 $market_cap = $mcapj[0]['market_cap_usd'];
 $thrones = $obj['result'];

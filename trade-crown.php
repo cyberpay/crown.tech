@@ -21,6 +21,13 @@
                     <h2>You can trade Crowns at</h2>
 
                     <div class="col-full-width center-align">
+                        <img src="./media/brands/bittrex.png" alt="bittrex" class="bittrex">
+                        <div class="button-container">
+                            <a class="fancy-button full" href="https://bittrex.com/Market/Index?MarketName=BTC-CRW" target="_blank">Trade crown</a>
+                        </div>
+                        <p>Trade CRW against Bitcoin and another 99 altcoins</p>
+                    </div>
+                    <div class="col-full-width center-align">
                         <img src="./media/brands/ccex.png" alt="ccex" class="ccex">
                         <div class="button-container">
                             <a class="fancy-button full" href="https://c-cex.com/?p=crw-btc" target="_blank">Trade crown</a>
@@ -29,17 +36,6 @@
                     </div>
 
                 </div>
-
-                <!--<div class="light-content thin">
-
-                    <div class="col-full-width center-align">
-                        <img src="./media/brands/ccex.png" alt="ccex" class="ccex">
-                        <div class="button-container">
-                            <a class="button full" href="https://c-cex.com/?p=crw-btc" target="_blank">Trade crown</a>
-                        </div>
-                        <p>Trade CRW against Bitcoin and another 99 altcoins</p>
-                    </div>
-                </div>-->
 
             </div>
 

@@ -51,7 +51,7 @@
                     <span class="title">Key facts about crown</span>
                     <div class="light-content">
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
-                            <h4>Estabilisted 2014</h4>
+                            <h4>Established 2014</h4>
                             <p>The Crown was fairly launched in 2014, formerly as Crowncoin</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">

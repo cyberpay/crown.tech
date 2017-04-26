@@ -703,7 +703,7 @@ a.more {
     .button-container a.button.light {
       background: #bae0e7;
       color: #33b4c7; }
-      .button-container a.button.light:hover {
+      .button-container a.button.light:hover  {
         background: #33b4c7;
         color: #fff; }
   .button-container + h2 {
@@ -2365,7 +2365,7 @@ main.hp {
         background: transparent url(../media/hp/round/market-cup.png) no-repeat center top;
         background-size: 150px auto; }
       .hp .round-container .labels .label[data-val="2"] {
-        background: transparent url(../media/hp/round/thrones.png) no-repeat center top;
+        background: transparent url(../media/hp/round/trons.png) no-repeat center top;
         background-size: 106px auto; }
       .hp .round-container .labels .label[data-val="3"] {
         background: transparent url(../media/hp/round/available-supply.png) no-repeat center top;
@@ -3015,3 +3015,26 @@ main.default .thin-content.top-padding {
       width: 74px; }
     header .brand > .logo > img.logo {
       height: 27px; } }
+
+/*Added by main_gk*/
+.media-package {
+    padding: 0em .5em 3em .5em !important;
+}
+
+.media-package img {
+    height: auto !important;
+    width: 100% !important;
+    box-sizing: content-box !important;
+    margin: auto !important;
+    float: none !important;
+}
+
+.core-title{
+color: #F3E465;
+}
+
+.mediaListItem {
+line-height: 1.75;
+font-size: 1em;
+letter-spacing: .095em;
+}

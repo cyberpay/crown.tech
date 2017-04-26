@@ -9,13 +9,13 @@ $root = "/";
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name = "format-detection" content = "telephone=no">
-    <meta name="description" content="Crown - A Digital Asset and Application Platform"/>
-    <meta name="keywords" content="Crown - A Digital Asset and Application Platform currency, cryptocurrency"/>
+    <meta name="description" content="Crown - A Digital Commodity &#38; Application Platform"/>
+    <meta name="keywords" content="crown, crw, crowncoin, bitcoin, altcoin, digital, commodity, application, platform, currency, cryptocurrency"/>
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="Crown - A Digital Asset and Application Platform" />
-    <meta property="og:description" content="Crown - A Digital Asset and Application Platform" />
+    <meta property="og:title" content="Crown - A Digital Commodity &#38; Application Platform" />
+    <meta property="og:description" content="Crown - A Digital Commodity &#38; Application Platform" />
     <meta property="og:url" content="http://www.crown.tech/" />
-    <meta property="og:site_name" content="Crown - A Digital Asset and Application Platform" />
+    <meta property="og:site_name" content="Crown - A Digital Commodity &#38; Application Platform" />
     <meta property="og:image" content="http://www.crown.tech/media/share/share.png" />
 
     <link rel="apple-touch-icon" sizes="57x57" href="<?php echo $root ?>media/favicons/apple-touch-icon-57x57.png">
@@ -36,13 +36,9 @@ $root = "/";
     <meta name="msapplication-wide310x150logo" content="./media/favicons/widetile.png" />
     <meta name="msapplication-square310x310logo" content="./media/favicons/largetile.png" />
 
-
-    <meta name="robots" content="noindex">                     <!-- DELETE ON LIVE VERSION -->
-    <meta name="googlebot" content="noindex">
-
     <link href="./css/style.css" rel="stylesheet" type="text/css">
 
-    <title>Crown - A Digital Asset and Application Platform</title>
+    <title>Crown - A Digital Commodity &#38; Application Platform</title>
 
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -51,6 +47,16 @@ $root = "/";
 
     <script type="application/javascript" src="./js/jquery-3.1.1.min.js"></script>
     <script type="application/javascript" src="./js/loading.js"></script>
+
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+        ga('create', 'UA-91164606-1', 'auto');
+        ga('send', 'pageview');
+    </script>
 </head>
 <body>
 <div class="loading">
@@ -105,11 +111,10 @@ $root = "/";
                 <nav>
                     <ul role="navigation">
                         <li><a href="<?php echo $root ?>wallet" data-text="Download wallet">Download wallet</a></li>
-                        <li><a href="<?php echo $root ?>trade-crown" data-text="Trade crown">Trade crown</a></li>
-                        <li><a href="<?php echo $root ?>thrones" data-text="Set up a throne">Set up a throne</a></li>
-                        <li><a href="<?php echo $root ?>merge-mine" data-text="Merge mine crown">Merge mine crown</a></li>
+                        <li><a href="<?php echo $root ?>trade-crown" data-text="Trade Crown">Trade Crown</a></li>
+                        <li><a href="<?php echo $root ?>trons" data-text="Set up a Tron">Set up a Tron</a></li>
+                        <li><a href="<?php echo $root ?>merge-mine" data-text="Merge mine Crown">Merge mine Crown</a></li>
                         <li><a href="<?php echo $root ?>timestamp" data-text="Timestamp a document">Timestamp a document</a></li>
-                        <li><a href="<?php echo $root ?>register-your-name" data-text="Register your name">Register your name</a></li>
                     </ul>
                 </nav>
             </div>
@@ -120,7 +125,7 @@ $root = "/";
                 <div class="each">
                     <h5>Learn and <br>get involved</h5>
                     <ul>
-                        <li><a href="<?php echo $root ?>about-crown">about crown</a></li>
+                        <li><a href="<?php echo $root ?>about-crown">about Crown</a></li>
                         <li><a href="<?php echo $root ?>how-it-works">how it works</a></li>
                         <li><a href="<?php echo $root ?>get-involved">get involved</a></li>
                         <li><a href="<?php echo $root ?>history">our history</a></li>
@@ -134,12 +139,13 @@ $root = "/";
                         <li><a href="http://mm.crownlab.eu/" target="_blank">Private chat</a></li>
                         <li><a href="<?php echo $root ?>block-explorer">Block explorers</a></li>
                         <li><a href="https://github.com/Crowndev/crowncoin" target="_blank">Crown on github</a></li>
+						<li><a href="<?php echo $root ?>crown-media">Crown media kit</a></li>
                     </ul>
                 </div>
                 <div class="each">
-                    <h5>Crown <br>revolution</h5>
+                    <h5>Crown <br>Atomic</h5>
                     <ul>
-                        <li><a href="<?php echo $root ?>crown-revolution">where are we going?</a></li>
+                        <li><a href="<?php echo $root ?>crown-atomic">where are we going?</a></li>
                         <li><a href="<?php echo $root ?>whitepapers">crown whitepapers</a></li>
                         <li><a href="<?php echo $root ?>personal-crypto">Real crypto stories</a></li>
                     </ul>

@@ -12,6 +12,6 @@ $obj = json_decode($json, true);
 $mcapd = file_get_contents('http://api.coinmarketcap.com/v1/ticker/crown/');
 $mcapj= (json_decode($mcapd, true));
 $market_cap = $mcapj[0]['market_cap_usd'];
-$thrones = $obj['result'];
-//$thrones = "-";
+$trons = $obj['result'];
+//$trons = "-";
 $avasupply = round(file_get_contents('http://chainz.cryptoid.info/crw/api.dws?q=totalcoins'),0);

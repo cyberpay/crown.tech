@@ -23,8 +23,8 @@
                         <a class="fancy-button full" href="https://chainz.cryptoid.info/crw/" target="_blank">Cryptoid explorer</a>
                     </div>
                     <div class="col-full-width center-align">
-                        <img src="./media/brands/blockpioneers.png" alt="blockpioneers explorer" class="blockpioneers">
-                        <a class="fancy-button full" href="http://crw.blockpioneers.info/index.php" target="_blank">Blockpioneers explorer</a>
+                        <img src="./media/brands/crown.png" alt="crown explorer" class="crown">
+                        <a class="fancy-button full" href="http://ex.crownlab.eu/" target="_blank">Crown explorer</a>
                     </div>
 
                    <!-- <div class="col-full-width center-align">

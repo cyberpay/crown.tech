@@ -19,7 +19,7 @@
 
                 <div class="col-full-width thin-content">
 
-                    <h2>Investors</h2>
+                    <h2>CRW holders</h2>
 
                     <p>
                         The purpose of an investment portfolio is to produce future returns for a person or organization
@@ -72,7 +72,7 @@
                 <div class="light-content">
                     <h2 class="no-padding">Developers: applications <span class="and">&</span> services</h2>
                     <p>
-                        Throne Nodes anchor the Crown Network. Throne Nodes are cloud compute instances, which are currently
+                        Tron Nodes anchor the Crown Network. Tron Nodes are cloud compute instances, which are currently
                         small – but can scale up as the network develops.
                     </p>
                     <p>

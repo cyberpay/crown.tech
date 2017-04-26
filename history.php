@@ -20,7 +20,7 @@
 
                     <figure>
                         <figcaption>December 2013: four Bitcoin enthusiasts dreamed about launching a coin called Crowncoin</figcaption>
-                        <img class="preview" src="./media/history/crown1_foto.jpg" alt="December 2013">
+                        <img class="preview" src="./media/history/crown1_foto.png" alt="December 2013">
                     </figure>
                     <figure>
                         <figcaption>October 2014: Crowncoin was fairly launched as an European project, NO premined, NO scam</figcaption>

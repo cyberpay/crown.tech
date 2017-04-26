@@ -103,7 +103,7 @@ $(document).ready(function () {
     if($("main.hp").length){
         var hp_round_current_rotation = 0;
         var hp_round_last_pos = 2;
-        var hp_round_labels = ["price", "market cup", "thrones", "available supply", "total supply"];
+        var hp_round_labels = ["price", "market cup", "trons", "available supply", "total supply"];
         $(".round-container .rotating .label").click(function () {
             hp_round($(this));
 

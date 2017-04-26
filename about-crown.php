@@ -7,15 +7,15 @@
 
             <div class="col-4-1 col-3-1-md col-full-width-sm sidebar">
                 <h1 class="col-2-1-sm" data-text="About crown">About crown</h1>
-                <h3 class="col-2-1-sm">A Digital Asset and Application Platform</h3>
-                <a class="box" href="./thrones">
-                    <h5>Set-up a throne</h5>
+                <h3 class="col-2-1-sm">A Digital Commodity &#38; Application Platform</h3>
+                <a class="box" href="./trons">
+                    <h5>Set-up a tron</h5>
                     <p>An incentivised app and investment vehicle</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./get-involved">
                     <h5>Get involved</h5>
-                    <p>As an investor, merchant or developer</p>
+                    <p>As a token holder, merchant or developer</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./how-it-works">
@@ -29,7 +29,7 @@
                 <div class="col-3-2 col-full-width-md content-top">
                     <h2>Crown <br>on Crypto</h2>
                     <p class="initial-letter">
-                        Crown (CRW) is a digital asset and application platform for driving technical & financial innovation.
+                        Crown (CRW) is a digital commodity and application platform for driving technical &#38; financial innovation.
                         Inspired by the universal symbol of the Crown, the platform seeks to build on durable and time-tested
                         elements of existing institutions while adding new capabilities which have become possible only through
                         the new discoveries and developments of the crypto-currency community. The Crown project aims to become
@@ -39,13 +39,13 @@
                     </p>
                 </div>
                 <div class="col-3-1 col-full-width-md content-top-right">
-                    <h2>Crown Revolution</h2>
+                    <h2>Crown Atomic</h2>
                     <p class="initial-letter">
-                        We are taking important steps TOWARD A REVOLUTIONARY GOAL.
-                        CROWN REVOLUTION will redefine what is possible with trustless transaction systems
+                        We are taking important steps toward a revolutionary goal.
+                        Crown Atomic will redefine what is possible with trustless transaction systems
                         and shared trustless application platforms.
                     </p>
-                    <a class="more with-arrow" href="./crown-revolution">Learn more about <br>our future</a>
+                    <a class="more with-arrow" href="./crown-atomic">Learn more about <br>our future</a>
                 </div>
                 <div class="col-full-width content-bottom">
                     <span class="title">Key facts about crown</span>
@@ -55,7 +55,7 @@
                             <p>The Crown was fairly launched in 2014, formerly as Crowncoin</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
-                            <h4>Thrones</h4>
+                            <h4>Trons</h4>
                             <p>A financially incentivised app and service provision platform</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
@@ -79,14 +79,14 @@
             </div>
 
             <div class="col-full-width sm-down-only sidebar">
-                <a class="box" href="./thrones">
-                    <h5>Set-up a throne</h5>
+                <a class="box" href="./trons">
+                    <h5>Set-up a tron</h5>
                     <p>An incentivised app and investment vehicle</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./get-involved">
                     <h5>Get involved</h5>
-                    <p>As an investor, merchant or developer</p>
+                    <p>As a token holder, merchant or developer</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./how-it-works">

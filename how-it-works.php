@@ -48,14 +48,14 @@
                 Crown includes capabilities of both the DASH and Bitcoin protocols, but there are important
                 differences between Crown and both DASH and Bitcoin. The most important differences from
                 Bitcoin are that (1) Crown confirms transactions more quickly, and (2) has an additional
-                layer of security provided by Throne network masternodes. The most important difference from
+                layer of security provided by Tron network masternodes. The most important difference from
                 DASH is that Crown can be merge-mined with Bitcoin so that it has the capability to leverage
                 the security provided by the bitcoin network’s hashpower.
             </p>
             <p>
                 This is a brief description of what Crown is now – but where everything will really get
                 fun and interesting is if we are able to make Crown into what we think it could be. For more
-                on our vision for Crown, please check out Crown Revolution.
+                on our vision for Crown, please check out Crown Atomic.
             </p>
         </div>
 
@@ -124,16 +124,16 @@
                     a computer program that encrypts and decrypts messages using keys and stored the data regarding the
                     tokens in a shared public database called a blockchain. This sort of a system has many potential uses.
                 </p>
-                <h4>Thrones</h4>
+                <h4>Trons</h4>
                 <p>
-                    Right now, users are encouraged to set up what we call Thrones. Users with 10,000 CRW can run the
-                    Crown program in server mode. These throne servers provide additional security to the network, but
+                    Right now, users are encouraged to set up what we call Trons. Users with 10,000 CRW can run the
+                    Crown program in server mode. These Tron servers provide additional security to the network, but
                     they also could represent a distributed pool of computing capacity for running applications. For now
-                    though, 45% of the block confirmation rewards go to the throne servers for their role in confirming
+                    though, 45% of the block confirmation rewards go to the Tron servers for their role in confirming
                     transactions on the network through a modified proof-of-stake algorithm.
                 </p>
                 <div class="button-container">
-                    <a class="button" href="./thrones">Set up a throne</a>
+                    <a class="button" href="./trons">Set up a Tron</a>
                 </div>
             </div>
         </div>

@@ -11,8 +11,8 @@
     </div>
     <div class="each">
         <div class="unit"></div>
-        <div class="val"><?php echo $thrones; ?></div>
-        <div class="label">thrones</div>
+        <div class="val"><?php echo $trons; ?></div>
+        <div class="label">trons</div>
     </div>
     <div class="each">
         <div class="unit">CRW</div>

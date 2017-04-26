@@ -5,7 +5,7 @@
     <div class="content">
 
         <span class="title">introducing crown</span>
-        <h1 data-text="A digital asset & application platform">A digital asset & application platform</h1>
+        <h1 data-text="A Digital Commodity &#38; Application Platform">A Digital Commodity &#38; Application Platform</h1>
 
         <?php include "./include/statistics.php"; ?>
         <div class="market-cap">
@@ -24,7 +24,7 @@
             <div class="labels">
                 <span class="label" data-pos="1" data-val="0">price</span>
                 <span class="label active" data-pos="2" data-val="1">market cap</span>
-                <span class="label" data-pos="3" data-val="2">thrones</span>
+                <span class="label" data-pos="3" data-val="2">trons</span>
                 <span class="label" data-pos="4" data-val="3">available supply</span>
                 <span class="label" data-pos="5"></span>
                 <span class="label" data-pos="6"></span>
@@ -60,7 +60,7 @@
         </div>
         <div class="value" data-val="2">
             <span class="unit">&nbsp;</span>
-            <span class="val"><?php echo $thrones; ?></span>
+            <span class="val"><?php echo $trons; ?></span>
         </div>
         <div class="value" data-val="3">
             <span class="unit">CRW</span>

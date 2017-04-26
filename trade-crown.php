@@ -18,7 +18,7 @@
 
                 <div class="col-full-width thin-content">
 
-                    <h2>You can trade Crowns at</h2>
+                    <h2>You can trade CRW at</h2>
 
                     <div class="col-full-width center-align">
                         <img src="./media/brands/bittrex.png" alt="bittrex" class="bittrex">

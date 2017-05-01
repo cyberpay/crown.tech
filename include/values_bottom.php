@@ -11,7 +11,7 @@
     </div>
     <div class="each">
         <div class="unit"></div>
-        <div class="val"><?php echo $trons; ?></div>
+        <div class="val"><?php echo $t; ?></div>
         <div class="label">trons</div>
     </div>
     <div class="each">

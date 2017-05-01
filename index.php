@@ -60,7 +60,7 @@
         </div>
         <div class="value" data-val="2">
             <span class="unit">&nbsp;</span>
-            <span class="val"><?php echo $trons; ?></span>
+            <span class="val"><?php echo $t; ?></span>
         </div>
         <div class="value" data-val="3">
             <span class="unit">CRW</span>

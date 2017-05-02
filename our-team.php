@@ -57,7 +57,7 @@
                 <div class="img-container">
                     <img src="./media/team/knighta2_blue.jpg" alt="knight">
                 </div>
-                <h4 class="core-title">CHAOSITEC - SYSTEM ARCHITECTURE</h4>
+                <h4 class="core-title">Fabian Olesen - "CHAOSITEC" <span style="display: block;">SYSTEM ARCHITECTURE</span></h4>
                 <p>Chaositec is a developer who is responsible for the Crown Atomic architecture, keeping the code up to date, implementation of new features, 
 				new wallet builds, a pioneer in establishing the very first service running on Trons - a professional <a href="https://node-vps.com/" target="_blank">hosting service for 
 				Tron operators</a>.</p>
@@ -67,7 +67,7 @@
                 <div class="img-container">
                     <img src="./media/team/knightb2_blue.jpg" alt="knight">
                 </div>
-                <h4 class="core-title">STONEHEDGE - SYSTEM ARCHITECTURE</h4>
+                <h4 class="core-title">Dan Ames - "STONEHEDGE" <span style="display: block;">SYSTEM ARCHITECTURE</span></h4>
                 <p>Stone is an experienced crypto veteran and former key team member of one of the most successful digital currencies, 
 				who noticed the potential of Crown in an early stage. Stone oversees the strategy of the project and brings his 17 years 
 				experience in managing IT infrastructure projects for large organisations to shape Crown's future</p>
@@ -77,7 +77,7 @@
                 <div class="img-container">
                     <img src="./media/team/knightc2_blue.jpg" alt="knight">
                 </div>
-                <h4 class="core-title">INFERNOMAN - LEAD DEVELOPER</h4>
+                <h4 class="core-title">Alastair Clark - "INFERNOMAN" <span style="display: block;">LEAD DEVELOPER</span></h4>
                 <p>Infernoman is a very talented Dev, who has developed his own very successful crypto project. He supports the project 
 				with dev ideas, constant fixes and update to the code in order to clean cut the Crown protocol. Cars are his passion!</p>
             </div>
@@ -95,7 +95,7 @@
                 <div class="img-container">
                     <img src="./media/team/knighte2_blue.jpg" alt="knight">
                 </div>
-                <h4 class="core-title">URBAN IDLER - SYSTEM ARCHITECTURE &#38; TRON DEVELOPMENT</h4>
+                <h4 class="core-title">Matthew Zuck - "URBAN IDLER" <span style="display: block;">SYSTEM ARCHITECTURE &#38; TRON DEVELOPMENT</span></h4>
                 <p>Urban Idler is a non-descript middle aged man with no distinguishing achievements or notable thoughts during his 
 				inconsequential life, other than wondering where he left the book he was just reading. In the course of reading one 
 				day he noticed that cryptography systems where bundling a variety of different technological solutions into a unified 
@@ -109,7 +109,7 @@
                 <div class="img-container">
                     <img src="./media/team/knighta2_blue.jpg" alt="knight">
                 </div>
-                <h4 class="core-title">CROWNCOIN_KNIGHT - CO-FOUNDER &#38; IDEA KEEPER</h4>
+                <h4 class="core-title">Jan Brody - "CROWNCOIN_KNIGHT" <span style="display: block;">CO-FOUNDER &#38; IDEA KEEPER</span></h4>
                 <p>Crowncoin_Knight is a start-up investor and a co-founder of the Crown idea. His aim is to bring Crown into the hands 
 				of everyday people. He is responsible for the strategy of the project and its direction. His motto: most crypto project 
 				have no real story, Crown is one of the few exceptions: it connects the history of the Crown to the blockchain.</p>

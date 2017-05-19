@@ -19,57 +19,6 @@
 
                 <div class="col-full-width thin-content">
 
-                    <h2>CRW holders</h2>
-
-                    <p>
-                        The purpose of an investment portfolio is to produce future returns for a person or organization
-                        with current wealth. Investing is about the future.
-                    </p>
-                    <p>
-                        We believe that in the future, cryptographically secured trustless transaction systems connected to
-                        distributed databases will play a key role in the world economy. This technology lowers transaction
-                        costs and has the potential to change the structure of transaction costs within every economy.
-                        As Ronald Coase noted in his 1937 paper, <strong>the Nature of the Firm</strong>, the structure of transaction costs
-                        is a key determinant of the structure of firms in an economy.
-                    </p>
-                    <p>
-                        As this <strong>innovative combination of technologies</strong>, commonly called blockchain or bitcoin, is applied
-                        to existing businesses some will be creative, and others will be creatively destroyed.
-                    </p>
-                    <p>
-                        Creative destruction is an inevitable result of combinatorial math in an era of technological
-                        innovation – the potential combinations of technologies, or new methods, explodes relative to the
-                        number of technologies – and because of the effort involved in creating the technologies, the
-                        value-added combinations of technologies (or applications) often surprise everyone.
-                    </p>
-                    <p>
-                        If you have capital available and prefer creativity to being creatively destroyed – and you live in
-                        a jurisdiction where investment in Crown is not prohibited, feel free to get in touch with any of
-                        the members of the team.
-                    </p>
-                    <p>
-                        We welcome every kind of diversity, but goal diversity. <strong>Crown’s goal is to be a leading open platform
-                        for applications and services which integrate economic processes with the blockchain.</strong>
-                    </p>
-                    <p>
-                        Much more can be said about the opportunity of investing capital in digital tokens as a store of
-                        value. Two parts of an investment hypothesis in digital tokens might be that (1) the prospective
-                        returns are asymmetric – you can lose 100%, but if any emerging token successfully becomes useful
-                        in the real economy, the potential returns could be well above 100%. (2) the pattern of returns to
-                        digital tokens will be distinct from other assets as the underlying technology and uses develop.
-                    </p>
-                    <p>
-                        <strong>The caveats or warnings are the facts that (1) most digital token or blockchainprojects like
-                        Crown will fail, and (2) Crown’s role is not to give investment advice -- we are technologists
-                        building an open community and working to build a technology platform for the benefit of that community.</strong>
-                    </p>
-                    <p>
-                        <em>This section is intended as a brief conceptual discussion of how an accredited investor or
-                        investment advisor might start to think about where digital tokens fit into a portfolio.</em>
-                    </p>
-                </div>
-
-                <div class="light-content">
                     <h2 class="no-padding">Developers: applications <span class="and">&</span> services</h2>
                     <p>
                         Tron Nodes anchor the Crown Network. Tron Nodes are cloud compute instances, which are currently
@@ -111,6 +60,9 @@
                         If this perspective makes sense to you, the goal sounds interesting, and you know how to code feel
                         free to watch the project at github, and contact any of the team members to learn more.
                     </p>
+                </div>
+
+                <div class="light-content">
 
                     <h2>What apps you can help us with</h2>
 

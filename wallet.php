@@ -27,18 +27,20 @@
                 </div>
 
                 <div class="light-content no-heading">
+				
+					<h2>Desktop Wallets</h2>
 
                     <div class="col-2-1 col-full-width-xs center-align">
                         <img src="./media/icons/windows.png" alt="Windows" class="windows-ico">
                         <span class="name">Windows</span>
-                        <a class="button half" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.4-x86_64-w64-mingw32.tar.gz">64 bit</a>
                         <a class="button half" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.3-i686-w64-mingw32.tar.gz">32 bit</a>
+						<a class="button half" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.4-x86_64-w64-mingw32.tar.gz">64 bit</a>
                     </div>
                     <div class="col-2-1 col-full-width-xs center-align">
                         <img src="./media/icons/linux.png" alt="Linux" class="linux-ico">
                         <span class="name">Linux</span>
-                        <a class="button half" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.6-x86_64-unknown-linux-gnu.tar.gz">64 bit</a>
                         <a class="button half" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.5-i686-pc-linux-gnu.tar.gz">32 bit</a>
+						<a class="button half" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.6-x86_64-unknown-linux-gnu.tar.gz">64 bit</a>
                     </div>
                     <div class="col-2-1 col-full-width-xs center-align">
                         <img src="./media/icons/apple.png" alt="Mac OS" class="apple-ico">
@@ -50,20 +52,40 @@
                         <span class="name">RPi (ARM)</span>
                         <a class="button full" target="_blank" href="https://github.com/Crowndev/crowncoin/releases/download/v0.12.0.61/crown-177.1-arm-linux-gnueabihf.tar.gz">Download</a>
                     </div>
+					<div class="col-2-1 col-full-width-xs center-align">
+                        <img src="./media/icons/bootstrap.png" alt="Bootstrap" class="bootstrap-ico">
+                        <span class="name">Bootstrap</span>
+                        <a class="button full" target="_blank" href="http://txexplorer.infernopool.com/CRWbootstrap.zip">Download</a>
+                    </div>
+					
+					<h2>Mobile CrownPay Wallets</h2>
+					
+					<div class="col-2-1 col-full-width-xs center-align">
+                        <img src="./media/icons/android.png" alt="Android" class="android-ico">
+                        <span class="name">Android</span>
+                        <a class="button full" target="_blank" href="https://play.google.com/store/apps/details?id=com.crownpay.wallet">Download</a>
+                    </div>
+					
+					<div class="col-2-1 col-full-width-xs center-align">
+                        <img src="./media/icons/apple.png" alt="iOS" class="apple-ico">
+                        <span class="name">iOS</span>
+                        <a class="button full" target="_blank">Coming soon!</a>
+                    </div>
+					
+					<h2>Paper Wallet</h2>
+					
                     <div class="col-2-1 col-full-width-xs center-align">
                         <img src="./media/icons/paper.png" alt="Paper" class="paper-ico">
                         <span class="name">Paper</span>
                         <a class="button full" href="./paper_wallet/index.html" target="_blank">Download</a>
                     </div>
-                    <div class="col-2-1 col-full-width-xs center-align">
-                        <img src="./media/icons/bootstrap.png" alt="Bootstrap" class="bootstrap-ico">
-                        <span class="name">Bootstrap</span>
-                        <a class="button full" target="_blank" href="http://txexplorer.infernopool.com/CRWbootstrap.zip">Download</a>
-                    </div>
-                    <div class="col-2-1 offset-4-1 col-full-width-xs offset-0-xs center-align">
-                        <img src="./media/icons/android.png" alt="Android" class="android-ico">
-                        <span class="name">Android</span>
-                        <a class="button full" target="_blank" href="https://play.google.com/store/apps/details?id=com.crownpay.wallet">Download</a>
+					
+					<h2>Payment Processors</h2>
+					
+					<div class="col-2-1 col-full-width-xs center-align">
+                        <img src="./media/icons/coinpayments.png" alt="Coinpayments" class="coinpayments-ico">
+                        <span class="name">CoinPayments</span>
+                        <a class="button full" href="https://www.coinpayments.net/supported-coins" target="_blank">Visit Website</a>
                     </div>
 
                     <h2>Download and install the wallet</h2>

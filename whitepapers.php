@@ -7,7 +7,7 @@
 
             <div class="col-4-1 col-3-1-md col-full-width-sm sidebar">
 
-                <h1 class="tiny" data-text="Crown whitepapers">Crown whitepapers</h1>
+                <h1 class="tiny" data-text="Crown Papers">Crown Papers</h1>
 
                 <?php include "./include/soc-sites.php" ?>
 
@@ -21,7 +21,7 @@
 
                     <h2>A Summary</h2>
 
-                    <p class="initial-letter">In a series of 6 whitepapers, Crown outlines plans for a decentralised and incentivised application platform that will diverge from current Blockchain technology in a unique and revolutionary way. The final product will be an open and decentralised application platform providing a cryptographically secure method for anybody with the inclination to harness the benefits of the next generation of Blockchain.</p>
+                    <p class="initial-letter">In a series of 7 papers, Crown outlines plans for a decentralised and incentivised application platform that will diverge from current Blockchain technology in a unique and revolutionary way. The final product will be an open and decentralised application platform providing a cryptographically secure method for anybody with the inclination to harness the benefits of the next generation of Blockchain.</p>
                     <p>Every social or business phenomena is marked by a transaction of some kind. Herein lies the key to truly diverse real world blockchain applications.</p>
                     <p>The intention of the Crown project is to challenge the current Blockchain paradigm and create an alternative approach to attaining the holy grail of Blockchain, a product of great usefulness to normal people that achieves long term and wide spread adoption through providing valuable services and network security provided by a cryptographically secure and environmentally sustainable method.</p>
                     <p>The Crown team draws on people from diverse backgrounds who are united in a desire to innovate and a sense that the Blockchain Industry is not innovating as radically as it needs to in order to convince the world that it is better to work with Blockchain than without.</p>
@@ -48,6 +48,9 @@
 
                     <h4>Crown Paper 6.0 – Sharing&nbsp;& Open Teams</h4>
                     <p>In this paper the Crown team contextualises the relationship between economic, social and technological change and what this means for technology such as Blockchain. This paper also describes the evolution of the Crown team and project and its immediate aims for the future.</p>
+					
+                    <h4>Crown Paper 7.0 - A Personal Story</h4>
+                    <p>In this paper, one of the Crown team members describes why he got involved with the Crown project.</p>
 
                 </div>
 
@@ -78,6 +81,10 @@
                     <div class="col-3-1 col-2-1-lg col-full-width-xs center-align bg-num" data-num="06">
                         <span class="name">Team</span>
                         <a class="button full" href="./media/whitepapers/CRW6.0-Team.pdf" target="_blank">Download</a>
+                    </div>
+                    <div class="col-3-1 col-2-1-lg col-full-width-xs center-align bg-num" data-num="07">
+                        <span class="name">Stories</span>
+                        <a class="button full" href="./media/whitepapers/CRW7.0-Stories.pdf" target="_blank">Download</a>
                     </div>
 
                 </div>

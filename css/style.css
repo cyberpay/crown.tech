@@ -21,7 +21,11 @@ html, body {
   background: #080e1f;
   color: #fff;
   font-family: "Roboto", sans-serif;
-  font-weight: 400; }
+  font-weight: 400; 
+  
+  word-wrap: break-word;
+  word-break: break-word;
+  overflow-wrap: break-word; }
 
 html, body, main, header, footer {
   box-sizing: border-box; }
@@ -1133,6 +1137,7 @@ div.center-align {
   div.center-align a.button {
     background: #33b4c7;
     display: block;
+	height: 60px;
     float: left;
     position: relative;
     text-decoration: none;
@@ -1140,7 +1145,11 @@ div.center-align {
     text-transform: uppercase;
     letter-spacing: .6em;
     color: #fff;
-    transition: .3s; }
+    transition: .3s; 
+	display: flex;
+    justify-content:center;
+    align-content:center;
+    flex-direction:column; }
     div.center-align a.button:hover {
       background: #bae0e7;
       color: #33b4c7; }
@@ -1186,7 +1195,7 @@ div.center-align {
     padding-right: 0;
     padding-left: 0; } }
 div.bg-num {
-  height: 12em;
+  /*height: 12em;*/
   position: relative;
   overflow: hidden; }
   div.bg-num span.name {

@@ -42,11 +42,11 @@
             <a class="box" href="#jackal">
                 Jackal
             </a>
-            <a class="box" href="#waveodell">
-                Waveodell
-            </a>
 			<a class="box" href="#snoops">
                 Snoops
+            </a>
+			<a class="box" href="#e1ghtspace">
+                e1ghtSpace
             </a>
 
         </div>
@@ -143,7 +143,7 @@
                 <div class="img-container">
                     <img src="./media/team/knightd2_blue.jpg" alt="knight">
                 </div>
-                <h4>CALNAUGHTONJNR - APP DEVELOPER</h4>
+                <h4>CALNAUGHTONJNR - APP DEVELOPMENT</h4>
                 <p>CalNaughtonJnr has been involved in crypto since 2011 and was the first to create Dash Masternode monitoring software 
 				back in 2014. He is a big Crown advocate working on Crown data and Tron mobile apps.</p>
             </div>
@@ -158,22 +158,9 @@
 				and he oversees the look of the project</p>
             </div>
             <hr>
-            <div class="knight left-align" id="waveodell">
+            <div class="knight left-align" id="snoops">
                 <div class="img-container">
                     <img src="./media/team/knighta2_blue.jpg" alt="knight">
-                </div>
-                <h4>WAVEODELL - COMMUNITY AMBASSADOR SOUTH EAST ASIA</h4>
-                <p>Based in Malaysia, a married guy, always doing research in cryptocurrency space, especially with one main 
-				goal: a better future. There was a time he was almost broke due to crypto scammers, he wants to change that. 
-				What brings him to crypto? South East Asia is struggling with its economy, people are looking for new-economy 
-				ideas, Crown can show us the way and become one of them. He believes that Crown can be adopted by big companies 
-				such Supercell, EA Games, Blizzard Entertainment, he sees a future where smart phone's in-applications are using 
-				Crown instead of Gems and maybe a tournament where Crown is used for rewards. Waveodell is a visionary.</p>
-            </div>
-            <hr>
-            <div class="knight right-align" id="snoops">
-                <div class="img-container">
-                    <img src="./media/team/knightb2_blue.jpg" alt="knight">
                 </div>
                 <h4>SNOOPS - COMMUNITY AMBASSADOR NEW YORK</h4>
                 <p>He has an educational background in political theory, economics, marketing, and international studies and 
@@ -181,6 +168,17 @@
 				He also has years of managerial experience in retail settings which has sharpened his communication skills and 
 				professionalism. He hopes to use this background to market Crown as a community ambassador and help the Crown 
 				project with governance issues as it expands to help it succeed within the global socioeconomic environment. </p>
+            </div>
+            <hr>
+            <div class="knight right-align" id="e1ghtspace">
+                <div class="img-container">
+                    <img src="./media/team/knightb2_blue.jpg" alt="knight">
+                </div>
+                <h4>E1GHTSPACE - COMMUNITY AMBASSADOR AUSTRALIA</h4>
+                <p>e1ghtSpace is a young Bitcoin/Altcoin investor from Australia. He was initially invited by Defunctec to 
+				create a few tutorial videos for newcomers and ended up as part of the team. His passion in life is 
+				technology, he is studying to become a programmer and he hopes to become a Crown developer one day. He 
+				likes old technology and media and is a fan of speedrunning n64 games.</p>
             </div>
         </div>
 

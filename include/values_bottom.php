@@ -12,7 +12,7 @@
     <div class="each">
         <div class="unit"></div>
         <div class="val"><?php echo $t; ?></div>
-        <div class="label">trons</div>
+        <div class="label">tron masternodes</div>
     </div>
     <div class="each">
         <div class="unit">CRW</div>

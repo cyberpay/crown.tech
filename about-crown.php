@@ -9,13 +9,13 @@
                 <h1 class="col-2-1-sm" data-text="About crown">About crown</h1>
                 <h3 class="col-2-1-sm">A Digital Commodity &#38; Application Platform</h3>
                 <a class="box" href="./trons">
-                    <h5>Set-up a tron</h5>
+                    <h5>Set-up a Tron Masternode</h5>
                     <p>An incentivised app and investment vehicle</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./get-involved">
                     <h5>Get involved</h5>
-                    <p>As a token holder, merchant or developer</p>
+                    <p>As a developer or merchant</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./how-it-works">
@@ -55,7 +55,7 @@
                             <p>The Crown was fairly launched in 2014, formerly as Crowncoin</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
-                            <h4>Trons</h4>
+                            <h4>Tron Masternodes</h4>
                             <p>A financially incentivised app and service provision platform</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
@@ -63,8 +63,8 @@
                             <p>Crown has merged mining with the Bitcoin network</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
-                            <h4>Timestamping</h4>
-                            <p>Protect your ideas, products and documents on the blockchain</p>
+                            <h4>Core Updates</h4>
+                            <p>Core Bitcoin and Dash Updates</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
                             <h4>Name registration</h4>
@@ -80,13 +80,13 @@
 
             <div class="col-full-width sm-down-only sidebar">
                 <a class="box" href="./trons">
-                    <h5>Set-up a tron</h5>
+                    <h5>Set-up a Tron Masternode</h5>
                     <p>An incentivised app and investment vehicle</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./get-involved">
                     <h5>Get involved</h5>
-                    <p>As a token holder, merchant or developer</p>
+                    <p>As a developer or merchant</p>
                     <div class="arrow"></div>
                 </a>
                 <a class="box" href="./how-it-works">

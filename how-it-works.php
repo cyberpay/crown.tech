@@ -161,7 +161,7 @@
             <p>
                 If you would like to send the development team<br>a question or idea, just send a note to
             </p>
-            <a class="contact-hyperlink" href="mailto:crowncoindev@gmail.com">crowncoindev<br>@gmail.com</a>
+            <a class="contact-hyperlink" href="mailto:info@crown.tech">info<br>@crown.tech</a>
         </div>
 
     </div>

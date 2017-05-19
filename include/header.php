@@ -112,7 +112,7 @@ $root = "/";
                     <ul role="navigation">
                         <li><a href="<?php echo $root ?>wallet" data-text="Download wallet">Download wallet</a></li>
                         <li><a href="<?php echo $root ?>trade-crown" data-text="Trade Crown">Trade Crown</a></li>
-                        <li><a href="<?php echo $root ?>trons" data-text="Set up a Tron">Set up a Tron</a></li>
+                        <li><a href="<?php echo $root ?>trons" data-text="Set up Tron Masternode">Set up Tron Masternode</a></li>
                         <li><a href="<?php echo $root ?>merge-mine" data-text="Merge mine Crown">Merge mine Crown</a></li>
                         <li><a href="<?php echo $root ?>timestamp" data-text="Timestamp a document">Timestamp a document</a></li>
                     </ul>
@@ -146,8 +146,8 @@ $root = "/";
                     <h5>Crown <br>Atomic</h5>
                     <ul>
                         <li><a href="<?php echo $root ?>crown-atomic">where are we going?</a></li>
-                        <li><a href="<?php echo $root ?>whitepapers">crown whitepapers</a></li>
-                        <li><a href="<?php echo $root ?>personal-crypto">Real crypto stories</a></li>
+                        <li><a href="<?php echo $root ?>whitepapers">Crown papers</a></li>
+						<li><a href="https://www.amazon.com/Crown-Papers-Core-Development-Team-ebook/dp/B06WP2JQXT/" target="_blank">Crown on Kindle</a></li>
                     </ul>
                 </div>
             </div>

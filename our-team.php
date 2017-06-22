@@ -48,6 +48,9 @@
 			<a class="box" href="#e1ghtspace">
                 e1ghtSpace
             </a>
+			<a class="box" href="#fin">
+                fin
+            </a>
 
         </div>
 
@@ -179,6 +182,18 @@
 				create a few tutorial videos for newcomers and ended up as part of the team. His passion in life is 
 				technology, he is studying to become a programmer and he hopes to become a Crown developer one day. He 
 				likes old technology and media and is a fan of speedrunning n64 games.</p>
+            </div>
+            <div class="knight left-align" id="fin">
+                <div class="img-container">
+                    <img src="./media/team/knightc2_blue.jpg" alt="knight">
+                </div>
+                <h4>Josh Wilcox - "FIN" <span style="display: block;">COMMUNITY ARCHITECT</span></h4>
+                <p>Josh 'fin' Wilcox is a Community Architect. He has a broad experience with technologies and people, 
+				and now he wants to bring it all together for one purpose: getting Everyday Joe to where they can understand 
+				crypto. Since Crown aims to be accessible by the masses and is focused on long-term change in how society does 
+				business, Josh wanted to help out in any way possible. He started out by adding anything he could learn into the 
+				project wiki, and has always been nearby to help out community newbies and veterans alike. He is on nearly every 
+				platform available and would love it if you introduced yourself on one of them!</p>
             </div>
         </div>
 

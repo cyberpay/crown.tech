@@ -67,8 +67,8 @@
                             <p>Core Bitcoin and Dash Updates</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
-                            <h4>Name registration</h4>
-                            <p>Certify your unique names on the blockchain</p>
+                            <h4>Governance System</h4>
+                            <p>A democratic community driven government model</p>
                         </div>
                         <div class="col-3-1 col-2-1-lg col-full-width-xs">
                             <h4>International team</h4>

@@ -46,6 +46,10 @@
                         <figcaption>January 2017: Crown code updated to Bitcoin core 0.10 and Dash core 0.12, Crown Revolution whitepapers released</figcaption>
                         <img class="logo" src="./media/history/nove_logo.png" alt="January 2017">
                     </figure>
+                    <figure>
+                        <figcaption>June 2017: The Crown governance system was implemented to democratically fund the development of the Crown token</figcaption>
+                        <img class="preview" src="./media/history/crown9_foto.jpg" alt="June 2017">
+                    </figure>
 
                 </div>
 

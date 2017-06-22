@@ -36,7 +36,11 @@
                     </div>
 
                 </div>
-
+				
+				<div class="light-content no-heading">
+					<h4>How to buy Crown tokens</h4>
+					<iframe width="560" height="315" src="https://www.youtube.com/embed/2UwEzh9fwKc" frameborder="0" allowfullscreen></iframe>
+				</div>
             </div>
 
         </div>

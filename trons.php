@@ -6,7 +6,7 @@
         <div class="content">
 
             <div class="col-4-1 col-3-1-md col-full-width-sm sidebar">
-                <h1 class="small" data-text="Set up Tron Masternode">Set up Tron Masternode</h1>
+                <h1 class="small" data-text="Set up Tron">Set up Tron</h1>
 
                 <?php include "./include/soc-sites.php" ?>
 
@@ -22,6 +22,7 @@
                     <p><strong>
                             The Crown platform utilizes masternodes called Trons.  The minimal requirements for running a masternode are to just have a small compute session which is always on and connected to the network, and load the Crown software on it and set some configuration files up with some keys to confirm that you have the required 10,000 CRW collateral on the blockchain.
                         </strong></p>
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/93kyH3y1opQ" frameborder="0" allowfullscreen></iframe>
 
                 </div>
 
@@ -56,7 +57,12 @@
 
                            
                     <h4>Provide another layer of governance</h4>
-                    <p>Trons will be able to make and vote on proposals for allocating the 10% of the block rewards which has been held back since the last code update in February 2017.  None of the funds held back from the block rewards have been allocated yet, and the existing development fund is composed of tokens contributed personally by members of the core team so that the project would have the resources to get to the point at which Tron voting would be turned on.  This code is in place and it is just a matter of turning it on this function that the platform inherits from Dash in the next update.</p>
+                    <p>Tron operators have the right to vote on development related proposals submitted by the Crown community. This is a very responsible role, since they are directly influencing the future of the Crown project. Please see more information on the Crown governance system here:</p>
+					<div class="col-2-1 col-full-width-xs center-align">
+						<img src="./media/icons/guide.png" alt="Tron Masternode Guide" class="android-ico">
+						<a class="button full" href="http://crown.tech/governance" target="_blank">Crown governance system</a>
+					</div>
+					<h4>&nbsp;</h4>
 
                     <h4>Provide Application Developers and Tron Operators with Business Opportunities</h4>
                     <p>Once the API is developed, developers will be able to integrate Crown API calls and package applications which Tron operators would be able to offer to users managing the provisioning of compute resources, and payment for the application, through the Crown API in concert with other API’s or development tools.  Trons are, in a sense, franchises to operate a cloud application business running open source applications and accepting payment denominated in CRW.</p>

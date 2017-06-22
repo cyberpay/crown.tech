@@ -6,7 +6,7 @@
         <div class="content">
 
             <div class="col-4-1 col-3-1-md col-full-width-sm sidebar">
-                <h1 class="tiny" data-text="Crown Atomic">Crown Atomic</h1>
+                <h1 class="tiny" data-text="Crown Atomic">Crown <br />Atomic</h1>
 
                 <?php include "./include/soc-sites.php" ?>
 
@@ -23,7 +23,7 @@
                     <p><strong>Crown Atomic will redefine what is possible with trustless transaction systems and shared trustless application platforms.</strong></p>
 
                     <div class="button-container">
-                        <a class="button" href="./whitepapers">Crown whitepapers</a>
+                        <a class="button" href="./paperss">Crown papers</a>
                     </div>
 
                     <h2>We envision implementing this programme in multiple stages:</h2>

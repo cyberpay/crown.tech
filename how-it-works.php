@@ -60,7 +60,7 @@
         </div>
 
         <div class="light-content wide">
-            <a class="fancy-button overflowed-top" href="./whitepapers">Crown whitepapers</a>
+            <a class="fancy-button overflowed-top" href="./papers">Crown papers</a>
             <div class="col-2-1 col-full-width-sm left" id="how-it-works-2">
                 <h2><span class="bg-num">02 </span>Ok, but what do I need to get started?</h2>
                 <p class="initial-letter">
